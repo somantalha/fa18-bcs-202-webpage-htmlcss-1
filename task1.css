@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-
+h1 {
+  padding: 60px;
+}
 #top img {
   position: relative;
   z-index: -1;
